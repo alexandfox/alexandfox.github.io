@@ -5,7 +5,7 @@
       "symbol": "WBTC",
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
       "price": 27014.8701,
-      "total_supply": 212300000.0000,
+      "total_supply": 212350000.0000,
       "collateral_factor": 70,
       "liquidation_factor": 80
     },
@@ -15,17 +15,17 @@
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
       "price": 1825.2198,
       "total_supply": 1437000000.0000,
-      "collateral_factor": 70,
-      "liquidation_factor": 80
+      "collateral_factor": 85,
+      "liquidation_factor": 90
     },
     {
       "name": "Compound",
       "symbol": "COMP",
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/5692.png",
       "price": 38.2890,
-      "total_supply": 81945000.0000,
-      "collateral_factor": 70,
-      "liquidation_factor": 80
+      "total_supply": 81944000.0000,
+      "collateral_factor": 80,
+      "liquidation_factor": 85
     },
     {
       "name": "Chainlink",
@@ -33,7 +33,7 @@
       "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png",
       "price": 6.5204,
       "total_supply": 915600.0000,
-      "collateral_factor": 70,
+      "collateral_factor": 75,
       "liquidation_factor": 80
     }
   ]
